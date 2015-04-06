@@ -1,10 +1,12 @@
-package com.kevmhaube.stormy;
+package com.kevmhaube.stormy.ui;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.app.DialogFragment;
 import android.content.Context;
 import android.os.Bundle;
+
+import com.kevmhaube.stormy.R;
 
 /**
  * Created by kevinhaube on 4/2/15.

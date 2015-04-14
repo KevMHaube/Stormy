@@ -6,4 +6,6 @@
     <string name="title_oops">Oops, sorry!</string>
     <string name="message_error">There was an unexpected error. Please try again!</string>
     <string name="network_unavailable">Network is unavailable</string>
+    <string name="title_activity_daily_forcast">DailyForcastActivity</string>
+    <string name="title_activity_hourly_forecast">HourlyForecastActivity</string>
 </resources>
